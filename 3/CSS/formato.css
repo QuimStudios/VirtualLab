@@ -1,0 +1,19 @@
+.contenedor{
+	margin:auto;
+	width:1050px;
+}
+
+.contenedor .encab{
+	width:100%;
+	height:344px;
+	background-image:url('../IMG/encabe.png');
+}
+
+.final{
+	background-color: #8191A7;
+	bottom: 0; 
+	margin: auto;
+	width: 1050;
+	height:130px; 
+	align-content: center;
+}
